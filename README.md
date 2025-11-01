@@ -5,7 +5,9 @@ This algorithm uses a loop to allow for multiple guesses and decision control (i
 ## Project Details
 * **Project Title:** Simple Number Guessing Game Algorithm
 * **Project Author:** [lydiadeolu]
-* **Peer Reviewer:** [Partner's Name]
+* **Peer Reviewer:** [ayobami aribasoye]
+Feedback: Excellent work on the pseudocode! It's well structured with clear steps.
+Suggestions: I don't have any.
 
 // 1. Setup Phase
 SET SECRET_NUMBER to a random integer between 1 and 10 (inclusive)
